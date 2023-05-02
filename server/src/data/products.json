@@ -1,0 +1,83 @@
+[
+  {
+    "ID": 1,
+    "name": "Samsung Galaxy S20",
+    "description": "A high-end Android smartphone from Samsung.",
+    "status": true,
+    "categoryID": 2,
+    "tags": ["Samsung", "Android", "Smartphone"],
+    "price": 999.99,
+    "qty": 609
+  },
+  {
+    "ID": 2,
+    "name": "Apple MacBook Pro",
+    "description": "A high-end laptop from Apple.",
+    "status": true,
+    "categoryID": 3,
+    "tags": ["Apple", "MacBook", "Laptop"],
+    "price": 1499.99,
+    "qty": 1299
+  },
+  {
+    "ID": 3,
+    "name": "LG Refrigerator",
+    "description": "A large refrigerator from LG.",
+    "status": false,
+    "categoryID": 5,
+    "tags": ["LG", "Refrigerator", "Home Appliances"],
+    "price": 1999.99,
+    "qty": 0
+  },
+  {
+    "ID": 4,
+    "name": "Whirlpool Washing Machine",
+    "description": "A top-loading washing machine from Whirlpool.",
+    "status": true,
+    "categoryID": 6,
+    "tags": ["Whirlpool", "Washing Machine", "Home Appliances"],
+    "price": 699.99,
+    "qty": 699
+  },
+  {
+    "ID": 5,
+    "name": "Dell XPS 13",
+    "description": "A powerful and portable laptop from Dell.",
+    "status": true,
+    "categoryID": 3,
+    "tags": ["Dell", "XPS", "Laptop"],
+    "price": 1299.99,
+    "qty": 509
+  },
+  {
+    "ID": 6,
+    "name": "LG OLED TV",
+    "description": "A high-end OLED TV from LG.",
+    "status": true,
+    "categoryID": 4,
+    "tags": ["LG", "TV", "Home Entertainment"],
+    "price": 2499.99,
+    "qty": 9
+  },
+  {
+    "ID": 7,
+    "name": "Apple iPhone 12 Pro Max",
+    "description": "A top-of-the-line iPhone from Apple.",
+    "status": true,
+    "categoryID": 2,
+    "tags": ["Apple", "iPhone", "Smartphone"],
+    "price": 1299.99,
+    "qty": 120
+  },
+  {
+    "ID": 8,
+    "name": "Sony PlayStation 5",
+    "description": "A next-generation gaming console from Sony.",
+    "status": true,
+    "categoryID": 4,
+
+    "tags": ["Whirlpool", "Washing Machine", "Home Appliances"],
+    "price": 699.99,
+    "qty": 699
+  }
+]
